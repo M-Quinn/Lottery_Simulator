@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PlayLotto", "PlayLotto\PlayLotto.pyproj", "{57F3355F-88D7-44AF-81DB-70E2935AF217}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57F3355F-88D7-44AF-81DB-70E2935AF217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57F3355F-88D7-44AF-81DB-70E2935AF217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {478D23EF-3EA4-4286-A0EA-D3D8F1B80616}
+	EndGlobalSection
+EndGlobal
